@@ -25,7 +25,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"kitchen"
+                 "value":"ProfitableMonstersHonourHappilyKitchen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -43,7 +43,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"wohnzimmer"
+                 "value":"ProfitableMonstersHonourHappilyWohnzimmer"
                 }],
          "type":"tilelayer",
          "visible":true,
